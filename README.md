@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi 👋
+这里是福州大学计算机系的伍诗晨
+目前还有很多东西不懂，还要多多学习
+请多多关照
 <!--
 **fzuwsc/fzuwsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-->
-这里是福州大学计算机系的伍诗晨
-目前还有很多东西不懂，还要多多学习
-请多多关照
